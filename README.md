@@ -107,6 +107,13 @@ an Element is a contiguous set of alphanumeric characters ("word") on the same a
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
+## Credits
+
+Fork from 
+https://github.com/francesco-clementi-92/vision-camera-ocr
+https://github.com/ismaelsousa/vision-camera-ocr
+https://github.com/aarongrider/vision-camera-ocr
+
 ## License
 
 MIT

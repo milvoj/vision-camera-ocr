@@ -1,5 +1,5 @@
 {
-  "name": "vision-camera-ocr-plugin",
+  "name": "@milvoj/vision-camera-ocr",
   "version": "3.0.21",
   "description": "VisionCamera Frame Processor Plugin to provide OCR support",
   "main": "lib/commonjs/index",
@@ -38,26 +38,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/francesco-clementi-92/vision-camera-ocr.git"
+    "url": "git@github.com:milvoj/vision-camera-ocr.git"
   },
-  "author": "francesco-clementi-92 Sousa <francesco-clementi-921998sousa@gmail.com> (https://github.com/francesco-clementi-92sousa)",
+  "author": "Milan Vojinovic",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/francesco-clementi-92sousa/vision-camera-ocr/issues"
-  },
-  "homepage": "https://github.com/francesco-clementi-92sousa/vision-camera-ocr#readme",
+  "homepage": "https://github.com/milvoj/vision-camera-ocr",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "devDependencies": {
     "@react-native-community/eslint-config": "^3.0.0",
-    "@release-it/conventional-changelog": "^2.0.0",
     "@types/jest": "^26.0.0",
     "@types/react": "^18.2.0",
     "@types/react-native": "0.72.3",
     "commitlint": "^11.0.0",
-    "eslint": "^7.32.0",
+    "eslint": "^8.57.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
     "husky": "^4.2.5",
@@ -68,7 +64,6 @@
     "react-native-builder-bob": "^0.18.0",
     "react-native-vision-camera": "4.0.1",
     "react-native-worklets-core": "^1.1.1",
-    "release-it": "^16.1.3",
     "typescript": "^5.1.6"
   },
   "peerDependencies": {
