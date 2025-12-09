@@ -1,5 +1,5 @@
 
-# vision-camera-ocr-plugin
+# @milvoj/vision-camera-ocr
 
 A [VisionCamera](https://github.com/mrousavy/react-native-vision-camera) Frame Processor Plugin to preform text detection on images using [**MLKit Vision** Text Recognition](https://developers.google.com/ml-kit/vision/text-recognition). This module can be used only with React Native Vision Camera >= v4.x.x
 
@@ -8,7 +8,7 @@ A [VisionCamera](https://github.com/mrousavy/react-native-vision-camera) Frame P
 ## Installation
 
 ```sh
-yarn add vision-camera-ocr-plugin
+npm install @milvoj/vision-camera-ocr
 cd ios && pod install
 ```
 

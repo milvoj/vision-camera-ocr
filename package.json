@@ -1,6 +1,6 @@
 {
   "name": "@milvoj/vision-camera-ocr",
-  "version": "3.0.21",
+  "version": "3.0.21-1",
   "description": "VisionCamera Frame Processor Plugin to provide OCR support",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
